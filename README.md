@@ -16,6 +16,16 @@ PHPをやったり、HTML関係とかやってます。k8sやってみたい。
 
 ID:irmt-official <= DiscordのIDです。
 
+### 実績とか
+
+<p align="left"> 
+  <img alt="Top Langs" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iromatoyt&show_icons=true&theme=dracula" />
+  <img alt="github stats" height="200px" src="https://github-readme-stats.vercel.app/api?username=iromatoyt&theme=dracula&show_icons=ture" />
+</p>
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=iromatoyt&theme=dracula&column=7
+)](https://github.com/ryo-ma/github-profile-trophy)
+
 ## - 👋 Hi, I’m iromato
 ### Who is Iromato?
 
@@ -33,3 +43,13 @@ No, I don't.
 Oh, but I do manage a server.  
 
 ID: irmt-official <= Discord ID.  
+
+### Achievements, etc.
+
+<p align="left"> 
+  <img alt="Top Langs" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iromatoyt&show_icons=true&theme=dracula" />
+  <img alt="github stats" height="200px" src="https://github-readme-stats.vercel.app/api?username=iromatoyt&theme=dracula&show_icons=ture" />
+</p>
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=iromatoyt&theme=dracula&column=7
+)](https://github.com/ryo-ma/github-profile-trophy)
