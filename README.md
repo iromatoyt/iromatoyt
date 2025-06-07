@@ -25,6 +25,9 @@ ID:irmt-official <= DiscordのIDです。
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=iromatoyt&theme=dracula&column=7
 )](https://github.com/ryo-ma/github-profile-trophy)
+![](https://raw.githubusercontent.com/iromatoyt/iromatoyt/main/profile-summary-card-output/ayu_mirage/0-profile-details.svg)
+![](https://raw.githubusercontent.com/iromatoyt/iromatoyt/main/profile-summary-card-output/ayu_mirage/3-stats.svg)
+![](https://raw.githubusercontent.com/iromatoyt/iromatoyt/main/profile-summary-card-output/ayu_mirage/4-productive-time.svg)
 
 ## - 👋 Hi, I’m iromato
 ### Who is Iromato?
@@ -53,3 +56,7 @@ ID: irmt-official <= Discord ID.
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=iromatoyt&theme=dracula&column=7
 )](https://github.com/ryo-ma/github-profile-trophy)
+
+![](https://raw.githubusercontent.com/iromatoyt/iromatoyt/main/profile-summary-card-output/ayu_mirage/0-profile-details.svg)
+![](https://raw.githubusercontent.com/iromatoyt/iromatoyt/main/profile-summary-card-output/ayu_mirage/3-stats.svg)
+![](https://raw.githubusercontent.com/iromatoyt/iromatoyt/main/profile-summary-card-output/ayu_mirage/4-productive-time.svg)
